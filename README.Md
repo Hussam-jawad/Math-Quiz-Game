@@ -120,5 +120,4 @@ Dieses Projekt demonstriert meine Fähigkeit, **strukturierte Konsolenanwendunge
 - Wiederverwendbaren und modularen Code  
 - Saubere und übersichtliche Programmstruktur  
 
-Das Projekt eignet sich ideal als **Lern- und Bewerbungsprojekt** im Rahmen einer Ausbildung zum  
-**Fachinformatiker für Anwendungsentwicklung**.
+
